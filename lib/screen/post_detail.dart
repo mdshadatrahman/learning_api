@@ -32,6 +32,8 @@ class _PostDetailState extends State<PostDetail> {
           )
         ],
       ),
+
+      //Body
       body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.all(12.0),
